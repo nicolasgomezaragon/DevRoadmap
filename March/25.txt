@@ -1,0 +1,12 @@
+# CRM (Java) 
+- Defined that this project will tak place on Java with Spring, to handle the backend and for the frontend we will be using Angular. Idea is to later on introduce AI to it, as well, include a portal for clients to do self service for specific simple requests.
+
+# NGA (Javascript)
+- Created index.js with basic routing, must install NPM at home. 
+- Evaluating React integration.
+
+# DataCore (Python)
+-  Technical analysis tool for analyzing historical data from an stock or commodity and  being able to analyze and output a BUY, SELL or HOLD recommendation.
+
+# DevOps
+- Starting out with AWS

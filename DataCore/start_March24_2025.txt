@@ -1,2 +1,0 @@
-Initializing of project, created structure and first iteration of project.
-

@@ -1,0 +1,7 @@
+# CRM (Go) 
+
+# NGA website (JS)
+
+# DataCore (Python)
+
+# DevOps tooling
