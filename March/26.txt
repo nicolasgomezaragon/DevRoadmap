@@ -1,0 +1,23 @@
+# CRM (Java) 
+- Project initialization.
+- Installation of Corretto.
+- Started to develop Model-Repository-Service-Controller logic with Clients and Companies
+- NEXT: would be to review and expand the current idea, creating a CRUD.
+
+# NGA website (Javascript)
+- NPM init on Ubuntu
+- Next step: test basic routes on Ubuntu.
+
+# FinancialAPI (Go+Python)
+- Develop first iteration of extraction stage with Alpha Vantage API.
+- NEXT:  testing on Ubuntu and develop unit testing.
+
+# DevOps tooling
+- Troubleshooting to recover AWS account.
+- Decided to leave that account aside and create a new one.
+- With that, I'll be able to use up the free tier and follow up with books contents.
+- NEXT: Create AWS account and resume book. 
+
+# Leetcode
+- Initialized first problem and HelloWorld to commit.
+- NEXT: include ss of problem and solve it.

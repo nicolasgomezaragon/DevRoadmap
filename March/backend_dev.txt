@@ -1,0 +1,50 @@
+This is the beginning of a project that will change my entire life, however, 
+this will be a long journey towards giving it shape.
+
+I already have an idea of what I would like to build, however, there are stairs
+towards that dream. 
+
+My current job is a great starting point to forge my work ethic, for becoming a
+reliable, disciplined, responsible and integer personal on my job.  I need to push 
+towards that goal, and become my best professional version, as well, making Anubis the
+greatest dog on Earth, cultivating my lovely relationship with Yuliana and taking care 
+of my parents, use up the time. 
+
+For this project, I need not just to work during my work, but also organize my whole 
+life to be able to work at home morning time but also doing sport, cooking and eventually
+start optimizing time to complete my studies, work and have a life. 
+
+This will be certainly a challenge, but I prefer to endure this hardship than to give up.
+
+The goal right now is simple: BEAR
+Becoming stronger, more patient, more resilient and more resourceful than I have been until
+this point in time. This is not for Yuliana, Anubis or my parents, I want to build a life
+that is worth living and enduring is the path. Evolving.
+
+I will become a backend developer.
+Learning from the ground up programming but also software, practices and tooling. 
+Doing projects and developing day after day my software skills. 
+I will become great at this, not only for a job but for my company.
+
+The plan will be the following:
++ Develop a complete CRM with Java, learning of OOP and DS/Algorithms along the way.
++ Develop a technical analysis API to pull data with Go and analyze it with Python.
++ Develop my personal website with MERN stack as a CV.
+
+- Additionally, learn about DevOps tooling as Cloud (AWS), CI/CD, 
+Contaneinerization and Monitoring and Logging.
+
+With this, I'll be learning about everything what I'm interested about backend development. 
+Although I hate this job for the motherfucker monotony, I really want to complete a whole year here.
+To prove that to myself, to train consisteny and patience on my life. If I complete that, an stage 
+will be completed, I will be free to go with my liquidation to pay a good amount of Ryan and start a
+new stage with a better salary with my skills.
+
+I could take maybe a shortcut, but that is not for real men, men must endure.
+This boredom will make me stronger, but I need to train myself daily for it and keep building
+my mindset day after day, if I get through, this will be an step forward and not another regret.
+
+Work ethic in here, professional skills by myself, I need to work for Anubis, for Yulis, for my
+parents and for my future self, for the person I want to become.
+
+Let's do this out.
