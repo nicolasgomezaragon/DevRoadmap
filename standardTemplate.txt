@@ -1,18 +1,15 @@
-# CRM (Go) 
+# CRM (Java) 
 - 
 - NEXT: 
+
 # NGA website (JS)
 - 
 - NEXT: 
 
-# DataCore (Python)
+# FinancialAPI (Go + Python)
 - 
 - NEXT: 
 
-# DevOps tooling
-- 
-- NEXT: 
-
-# Leetcode
+# AWS
 - 
 - NEXT: 

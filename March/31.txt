@@ -1,0 +1,21 @@
+# CRM (Java) 
+- Deleted company MRSC and improved client
+- Included unit testing.
+- NEXT: running it on Ubuntu with spring-boot, test and then improve client functionalities
+
+# NGA website (JS)
+- On Saturday tested basic routing on Ubuntu and it worked fine.
+- Improved request handling on index.js 
+- Included mongoDB 
+- configured .env  
+- setting everything on place for React"
+- NEXT: test in Ubuntu 
+
+# FinancialAPI (Go + Python)
+- Run Go web extraction on Ubuntu and it worked after improving some code snippets.
+- Completely refactor project structrure, reorganized code and included transformation and loading. 
+- NEXT: test on Ubuntu machine.
+
+# AWS
+- Started Wordpress project, created instance.
+- NEXT: verify AWS environment creation.
