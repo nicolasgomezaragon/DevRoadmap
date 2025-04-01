@@ -16,6 +16,10 @@
 - Completely refactor project structrure, reorganized code and included transformation and loading. 
 - NEXT: test on Ubuntu machine.
 
+# Programming (C/C++)
+- Starte repo and hello world.
++ Next: started out with book.
+
 # AWS
 - Started Wordpress project, created instance.
 - NEXT: verify AWS environment creation.

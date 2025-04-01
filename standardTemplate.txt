@@ -1,15 +1,19 @@
 # CRM (Java) 
-- 
-- NEXT: 
+-
++ Next:
 
 # NGA website (JS)
-- 
-- NEXT: 
+-
++ Next: 
 
 # FinancialAPI (Go + Python)
-- 
-- NEXT: 
+-
++ Next: 
+
+# Programming (C/C++)
+-
++ Next: 
 
 # AWS
-- 
-- NEXT: 
+-
++ Next: 
