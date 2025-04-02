@@ -1,20 +1,20 @@
 # CRM (Java) 
--
-+ Next:
+- Needs to be tested on Ubuntu to advance with it.
+
 -----------------------------------------------------
 # NGA website (JS)
--
-+ Next: 
+- Needs to be tested on Ubuntu to advance with it.
+ 
 -----------------------------------------------------
 # FinancialAPI (Go + Python)
--
-+ Next: 
+- Needs to be tested on Ubuntu to advance with it.
+
 -----------------------------------------------------
 # Programming (C/C++)
--
+- Started with C++ primer, review contents and started with OPP foundations. 
 + Next: 
 -----------------------------------------------------
 # AWS
--
-+ Next: 
+- Completed first part for cloud introduction, starting actual content.
+ 
 -----------------------------------------------------
