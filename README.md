@@ -5,8 +5,11 @@
 
 ### 🔧 **Tech Stack**  
 **Languages**: Go | Python | Java | Javascript
+
 **Backend**: Gin/Spring Boot | REST APIs | Microservices | JWT  
+
 **Cloud/DevOps**: AWS | Docker | Kubernetes  
+
 **Data Tools**: SQL/NoSQL | Pandas | Scikit-learn  
 
 ### 🚀 **Projects**  
