@@ -27,16 +27,13 @@
 - Deployed ML models on AWS Lambda.  
 - **Learned**: Productionizing ML pipelines.  
 
-**[GitHub]** | **[Blog Post]**  
 
 #### **3. Java CRM**  
 *Java, Spring Boot, PostgreSQL*  
 - Scalable client management system with OAuth2.  
 - **Learned**: Microservices + ACID transactions.  
 
-**[GitHub]**  
 
----
 
 ### 📈 **Learning Journey**  
 - **Mastering**: Distributed systems, real-time data streaming (Kafka).  
@@ -46,10 +43,10 @@
 ---
 
 ### 📫 **Let’s Talk!**  
-- **GitHub**: [yourname](https://github.com/yourname)  
-- **LinkedIn**: [yourname](https://linkedin.com/in/yourname)  
-- **Portfolio**: [yourname.dev](https://yourname.dev)  
+- [Github](https://github.com/nicolasgomezaragon)  
+- [LinkedIn](https://www.linkedin.com/in/nigomeza/)  
+- Personal website being built  
 
 ---
 
-⭐ **Open to Roles**: Backend Dev | Data Engineer | Cloud Engineer  
+⭐ **Open to Roles**: Backend Developer | Data Engineer   
