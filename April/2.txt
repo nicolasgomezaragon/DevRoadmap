@@ -1,0 +1,23 @@
+# CRM (Java) 
+- Must be tested before proceding with further development.
+
+-----------------------------------------------------
+# NGA website (JS)
+- Must be tested before proceding with further development.
+
+-----------------------------------------------------
+# DataAggregator (Go) + DataAnalysis(Python)
+- Refactored project to split the project into two, one part for scraping and cleaning data and the other to analyze data and make decisions. 
+- Although it's much easier to handle the   project within a same file, as FinancialAPI project, integrating the backend extraction from go with the analysis from Python on the same repository.
+
++ Next: test the code on Ubuntu to evaluate further steps.
+-----------------------------------------------------
+# Programming (C/C++)
+- Finished primer, started with exercises.
+NEXT:  1.6.exercises.
+ 
+-----------------------------------------------------
+# AWS
+- Created first instance, and test it at home. Later, it didn't work anmore. 
++ Next: 
+-----------------------------------------------------

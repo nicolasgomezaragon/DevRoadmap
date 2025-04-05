@@ -1,13 +1,16 @@
 # CRM (Java) 
--
+- Deleted testing to focus in CRUD workflow.
+- Needs to be tested at Ubuntu. 
 + Next:
 -----------------------------------------------------
 # NGA website (JS)
--
+- Installed missing dependencies cors, morgan, mysql2 and dotenv.
+- Changed MongoDB by MySQL, just because, MongoDB is already being used in API.
 + Next: 
 -----------------------------------------------------
-# FinancialAPI (Go + Python)
--
+# Financial API (Go + Python)
+- solved files dependencies, and verified code was running.
+- included sources folder, to start planning different sources.
 + Next: 
 -----------------------------------------------------
 # Programming (C/C++)
